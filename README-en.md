@@ -1,9 +1,9 @@
 <div align="center">
 
+# Bernardo Alves Aguiar da Cunha
+
 <pre>
-Bernardo Alves Aguiar da Cunha
----------------------------------------------------------------------
-Full-Stack Developer | Java & React.js Enthusiast
+Software Developer | Java & React.js Enthusiast
 </pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218/?locale=en_US)
