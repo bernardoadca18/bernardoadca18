@@ -6,7 +6,6 @@
 ### <span style="color: #4CAF50">Desenvolvedor de Software</span> | Especialista em Java & React.js
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardoalvesaguiar16@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
@@ -60,7 +59,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado com mais de 3 anos de experiênci
 
 ## Contato
 
-- **Email:** [bernardoalvesaguiar16@gmail.com](mailto:bernardoalvesaguiar16@gmail.com)
+- **Email:** bernardoalvesaguiar16@gmail.com
 - **LinkedIn:** [Bernardo Alves]([https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218))
 
 ---
