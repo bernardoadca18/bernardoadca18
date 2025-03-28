@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bernardoadca18/bernardoadca18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[English](README-en.md) | [Português](README.pt-br.md)
 
-Here are some ideas to get you started:
+# Bernardo Alves Aguiar da Cunha  
+### <span style="color: #4CAF50">Desenvolvedor de Software</span> | Especialista em Java & React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardoalvesaguiar16@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
+
+## Sobre Mim
+
+Sou um **Desenvolvedor Full-Stack** apaixonado com mais de 3 anos de experiência na construção de aplicações web robustas. Minha especialidade está em backends **Java/Spring Boot** e frontends **React.js**, com foco em:
+
+- Construção de **sistemas distribuídos escaláveis**
+- Criação de **experiências de usuário intuitivas**
+- Defesa de **código limpo** e **melhores práticas**
+- Implementação de **pipelines eficientes de CI/CD**
+
+## 🛠 Habilidades Técnicas
+
+### **Desenvolvimento Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Desenvolvimento Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## Experiência Profissional
+
+### **Desenvolvedor Full-Stack**  
+`Jan 2022 - Presente`  
+- Projetei e implementei **microsserviços Spring Boot** com autenticação JWT e controle de acesso baseado em funções
+- Desenvolvi **aplicações React de alto desempenho** com TypeScript e hooks modernos
+- Otimizei consultas SQL, alcançando **tempos de resposta 40% mais rápidos** em operações com muitos dados
+- Estabeleci **pipelines CI/CD** reduzindo o tempo de implantação em 60%
+- Containerizei aplicações usando **Docker** e as implantei em instâncias **AWS EC2**
+
+## Formação & Certificações
+
+- **Bacharelado em Ciência da Computação**  
+  Centro Universitário Una | `2022 - 2025`
+  
+- **Certificação em Desenvolvimento de Software**  
+  IGTI | `2021`
+  
+- **AWS Academy Cloud Foundations**  
+  Amazon Web Services | `2025`
+
+## Contato
+
+- **Email:** [bernardoalvesaguiar16@gmail.com](mailto:bernardoalvesaguiar16@gmail.com)
+- **LinkedIn:** [Bernardo Alves]([https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218))
+
+---
+
+<div align="center">
+  
+**Aberto a novas oportunidades e desafios!**
+
+</div>
