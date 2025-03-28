@@ -60,7 +60,7 @@ I'm a passionate **Full-Stack Developer** with 3+ years of experience building r
 ## Get In Touch
 
 - **Email:** bernardoalvesaguiar16@gmail.com
-- **LinkedIn:** [Bernardo Alves]([https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218/?locale=en_US))
+- **LinkedIn:** [Bernardo Alves](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218/?locale=en_US)
 
 ---
 
