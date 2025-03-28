@@ -1,12 +1,12 @@
 <div align="center">
 
 <pre>
-# Bernardo Alves Aguiar da Cunha
+Bernardo Alves Aguiar da Cunha
 ---------------------------------------------------------------------
 Full-Stack Developer | Java & React.js Enthusiast
 </pre>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bernardolves-aguiar-da-cunha-b06364218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-bernardoalvesaguiar16@gmail.com-red?style=flat&logo=gmail)](mailto:bernardoalvesaguiar16@gmail.com)
 
 </div>
