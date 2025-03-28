@@ -6,7 +6,7 @@
 ### <span style="color: #4CAF50">Desenvolvedor de Software</span> | Especialista em Java & React.js
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardoadca18)
 
 </div>
 
