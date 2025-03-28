@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](README-en.md) | [Português](README.pt-br.md)
+
 # Bernardo Alves Aguiar da Cunha  
 ### <span style="color: #4CAF50">Software Developer</span> | Java & React.js Specialist
 
