@@ -11,14 +11,14 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Full-Stack Developer** with 3+ years of experience building robust web applications. My expertise lies in **Java/Spring Boot** backends and **React.js** frontends, with a strong focus on:
 
-- 🏗️ Building **scalable distributed systems**
-- ✨ Crafting **intuitive user experiences**
-- 📝 Advocating for **clean code** and **best practices**
-- 🚀 Implementing **efficient CI/CD pipelines**
+- Building **scalable distributed systems**
+- Crafting **intuitive user experiences**
+- Advocating for **clean code** and **best practices**
+- Implementing **efficient CI/CD pipelines**
 
 ## 🛠 Technical Skills
 
@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Developer** with 3+ years of experience building r
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Full-Stack Software Developer**  
 `Jan 2022 - Present`  
@@ -47,7 +47,7 @@ I'm a passionate **Full-Stack Developer** with 3+ years of experience building r
 - Established **CI/CD pipelines** reducing deployment time by 60%
 - Containerized applications using **Docker** and deployed on **AWS EC2** instances
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **B.Sc. in Computer Science**  
   Centro Universitário Una | `2022 - 2025`
@@ -58,15 +58,15 @@ I'm a passionate **Full-Stack Developer** with 3+ years of experience building r
 - **AWS Academy Cloud Foundations**  
   Amazon Web Services | `2025`
 
-## 📬 Get In Touch
+## Get In Touch
 
-- 📧 **Email:** [bernardoalvesaguiar16@gmail.com](mailto:bernardoalvesaguiar16@gmail.com)
-- 💼 **LinkedIn:** [Bernardo Alves]([https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218/?locale=en_US))
+- **Email:** [bernardoalvesaguiar16@gmail.com](mailto:bernardoalvesaguiar16@gmail.com)
+- **LinkedIn:** [Bernardo Alves]([https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218/?locale=en_US))
 
 ---
 
 <div align="center">
   
-✨ **Open to new opportunities and exciting challenges!** ✨  
+**Open to new opportunities and exciting challenges!**
 
 </div>
