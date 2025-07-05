@@ -3,7 +3,7 @@
 [English](README-en.md) | [Português](README.md)
 
 # Bernardo Alves Aguiar da Cunha  
-### <span style="color: #4CAF50">Desenvolvedor de Software</span> | Especialista em Java & React.js
+### <span style="color: #4CAF50">Desenvolvedor Fullstack</span> | Especialista em Java & React.js
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardoadca18)
@@ -12,55 +12,78 @@
 
 ## Sobre Mim
 
-Sou um **Desenvolvedor Full-Stack** com mais de 1 ano de experiência na construção de aplicações web robustas. Minha especialidade está em backends **Java/Spring Boot** e frontends **React.js**, com foco em:
-
-- Construção de **sistemas distribuídos escaláveis**
-- Criação de **experiências de usuário intuitivas**
-- Defesa de **código limpo** e **melhores práticas**
-- Implementação de **pipelines eficientes de CI/CD**
+Desenvolvedor de Software com experiência consolidada no ciclo de vida completo de desenvolvimento (SDLC), especializado em projetar, desenvolver e implementar aplicações web distribuídas e escaláveis. Forte atuação como Full-Stack, com domínio em Java com Spring Boot no backend e React.js/Next.js com TypeScript no frontend. Também possuo conhecimentos em desenvolvimento mobile com React Native. Proativo na resolução de problemas complexos, focado na entrega de soluções robustas, seguras e alinhadas às necessidades do negócio, utilizando as melhores práticas de Clean Code e arquitetura de software.
 
 ## 🛠 Habilidades Técnicas
 
-### **Desenvolvimento Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Desenvolvimento Frontend**
+### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### **Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **DevOps & Outras Tecnologias**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## Experiência Profissional
+## 💼 Experiência Profissional
 
-### **Desenvolvedor de Software**  
-`Jan 2024 - Jan 2025`  
-- Projetei e implementei **microsserviços Spring Boot** com autenticação JWT e controle de acesso baseado em funções
-- Desenvolvi **aplicações React de alto desempenho** com TypeScript e hooks modernos
-- Otimizei consultas SQL, alcançando **tempos de resposta 40% mais rápidos** em operações com muitos dados
-- Estabeleci **pipelines CI/CD** reduzindo o tempo de implantação em 60%
-- Containerizei aplicações usando **Docker** e as implantei em instâncias **AWS EC2**
+### **Desenvolvedor Fullstack (Freelancer)**  
+`Jan 2024 - Presente`
 
-## Formação & Certificações
+Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, responsável por todo o ciclo de desenvolvimento: concepção, levantamento de requisitos, arquitetura, implementação e implantação.
+
+#### Projetos em Destaque:
+
+- **Plataforma de Gestão de Empréstimos (SJF Juristas)**  
+  Liderança no desenvolvimento de uma plataforma fintech para gestão de empréstimos, com funcionalidades que cobrem desde a captação de clientes até a quitação de parcelas.
+
+  **Principais Responsabilidades:**
+  - Arquitetura e modelagem de banco de dados relacional (PostgreSQL).
+  - API RESTful segura com autenticação JWT e Spring Security.
+  - Frontend com Next.js, React.js, Tailwind e TypeScript.
+  - Containerização com Docker e orquestração com Docker Compose.
+  - Reverse proxy com Nginx e integração com MinIO para armazenamento seguro de documentos.
+
+- **LibraryHub**  
+  Sistema completo de gerenciamento de bibliotecas com CRUD, utilizando Java (Spring Boot), React.js, PostgreSQL e Docker.
+
+- **oRAG**  
+  Implementação de um sistema Retrieval-Augmented Generation com Python e Ollama, para geração de contexto em LLMs com base documental.
+
+## 🎓 Formação Acadêmica
 
 - **Bacharelado em Ciência da Computação**  
-  Centro Universitário Una | `Jan. 2022 - Dec. 2025`
-  
-- **Certificação em Desenvolvimento de Software**  
-  IGTI | `2021`
-  
-- **AWS Academy Cloud Foundations**  
-  Amazon Web Services | `2025`
+  Centro Universitário Una | `Jan 2022 - Dez 2025`
 
-## Contato
+- **Curso de Desenvolvimento de Software**  
+  Instituto de Gestão e Tecnologia da Informação (IGTI) | `Mai 2021 - Jul 2021`
 
-- **Email:** bernardoalvesaguiar16@gmail.com
-- **LinkedIn:** [Bernardo Alves](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)
+## 📜 Certificações
+
+- **AWS Academy Cloud Foundations** – Amazon Web Services | `2025`
+
+## 📫 Contato
+
+- **Email:** bernardoalvesaguiar16@gmail.com  
+- **LinkedIn:** [linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)  
+- **GitHub:** [github.com/bernardoadca18](https://github.com/bernardoadca18)
 
 ---
 
