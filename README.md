@@ -85,10 +85,10 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 - **Email:** bernardoalvesaguiar16@gmail.com  
 - **LinkedIn:** [linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)  
 - **GitHub:** [github.com/bernardoadca18](https://github.com/bernardoadca18)
-
 ---
-<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bernardostark15&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
-<div align="center"></div>
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bernardostark15&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
