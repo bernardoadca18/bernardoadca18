@@ -87,5 +87,8 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 - **GitHub:** [github.com/bernardoadca18](https://github.com/bernardoadca18)
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bernardostark15&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bernardostark15&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
 <div align="center"></div>
