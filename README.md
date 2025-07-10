@@ -35,6 +35,7 @@ Desenvolvedor de Software com experiência consolidada no ciclo de vida completo
 
 ### **Banco de Dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **DevOps & Outras Tecnologias**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,14 +57,14 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
   Liderança no desenvolvimento de uma plataforma fintech para gestão de empréstimos, com funcionalidades que cobrem desde a captação de clientes até a quitação de parcelas.
 
   **Principais Responsabilidades:**
-  - Arquitetura e modelagem de banco de dados relacional (PostgreSQL).
+  - Arquitetura e modelagem de banco de dados relacional (PostgreSQL e MySQL).
   - API RESTful segura com autenticação JWT e Spring Security.
   - Frontend com Next.js, React.js, Tailwind e TypeScript.
   - Containerização com Docker e orquestração com Docker Compose.
   - Reverse proxy com Nginx e integração com MinIO para armazenamento seguro de documentos.
 
 - **LibraryHub**  
-  Sistema completo de gerenciamento de bibliotecas com CRUD, utilizando Java (Spring Boot), React.js, PostgreSQL e Docker.
+  Sistema completo de gerenciamento de bibliotecas com CRUD, utilizando Java (Spring Boot), React.js, PostgreSQL/MySQL e Docker.
 
 - **oRAG**  
   Implementação de um sistema Retrieval-Augmented Generation com Python e Ollama, para geração de contexto em LLMs com base documental.
@@ -85,4 +86,5 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 - **Email:** bernardoalvesaguiar16@gmail.com  
 - **LinkedIn:** [linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)  
 - **GitHub:** [github.com/bernardoadca18](https://github.com/bernardoadca18)
+
 ---
