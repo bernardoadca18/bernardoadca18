@@ -3,7 +3,7 @@
 [English](README-en.md) | [Português](README.md)
 
 # Bernardo Alves Aguiar da Cunha  
-### <span style="color: #4CAF50">Fullstack Developer</span> | Specialist in Java, React.js & Next.js
+### <span style="color: #4CAF50">Fullstack Developer</span> | Java & React.js Specialist
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bernardoadca18)
@@ -12,7 +12,7 @@
 
 ## About Me
 
-Software Developer with solid experience across the full software development lifecycle (SDLC), specializing in designing, developing, and deploying distributed and scalable web applications. Strong performance as a Full-Stack Developer, with deep expertise in Java with Spring Boot for the backend and React.js/Next.js with TypeScript for the frontend. Also experienced in mobile development with React Native. Proactive in solving complex problems and focused on delivering robust, secure, and business-aligned solutions using best practices in Clean Code and software architecture.
+Software Developer with solid experience across the full Software Development Life Cycle (SDLC), specialized in designing, developing, and deploying scalable web applications. Strong full-stack skills, with expertise in Java and Spring Boot on the backend and React.js/Next.js with TypeScript on the frontend. I also have experience in mobile development using React Native. Proactive in solving complex problems, focused on delivering robust, secure, and business-aligned solutions, following best practices in Clean Code and software architecture.
 
 ## 🛠 Technical Skills
 
@@ -33,10 +33,11 @@ Software Developer with solid experience across the full software development li
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Database**
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **DevOps & Other Tools**
+### **DevOps & Other Technologies**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,33 +49,33 @@ Software Developer with solid experience across the full software development li
 ### **Fullstack Developer (Freelancer)**  
 `Jan 2024 - Present`
 
-Working as lead architect and developer on custom software projects, responsible for the entire development cycle: from requirements gathering and system design to implementation and deployment.
+Working as lead architect and developer on-demand projects, covering the entire development cycle: conception, requirements gathering, architecture, implementation, and deployment.
 
-#### Highlight Projects:
+#### Highlighted Projects:
 
 - **Loan Management Platform (SJF Juristas)**  
-  Led the development of a fintech platform for loan management, covering the entire process from client acquisition to loan settlement.
+  Lead developer in a fintech platform for loan management, covering client acquisition to installment processing.
 
-  **Main Contributions:**
-  - Database architecture and relational modeling (PostgreSQL).
-  - Secure RESTful API with JWT authentication using Spring Security.
-  - Frontend interfaces with Next.js, React.js, Tailwind CSS, and TypeScript.
-  - Full containerization with Docker and orchestration with Docker Compose.
-  - Reverse proxy setup with Nginx and MinIO integration for secure document storage.
+  **Key Responsibilities:**
+  - Relational database design and modeling (PostgreSQL and MySQL).
+  - Secure RESTful API with JWT authentication and Spring Security.
+  - Frontend built with Next.js, React.js, Tailwind, and TypeScript.
+  - Containerization with Docker and orchestration using Docker Compose.
+  - Nginx reverse proxy and MinIO integration for secure document storage.
 
 - **LibraryHub**  
-  A complete library management system implementing core CRUD functionality using Java (Spring Boot), React.js, PostgreSQL, and Docker.
+  Complete library management system with CRUD, built using Java (Spring Boot), React.js, PostgreSQL/MySQL, and Docker.
 
 - **oRAG**  
-  Developed a Retrieval-Augmented Generation system using Python and Ollama to optimize contextual generation in LLMs from document datasets.
+  Implementation of a Retrieval-Augmented Generation system with Python and Ollama for document-based LLM context generation.
 
 ## 🎓 Education
 
-- **Bachelor’s Degree in Computer Science**  
+- **Bachelor's in Computer Science**  
   Centro Universitário Una | `Jan 2022 - Dec 2025`
 
-- **Software Development Program**  
-  IGTI (Instituto de Gestão e Tecnologia da Informação) | `May 2021 - Jul 2021`
+- **Software Development Bootcamp**  
+  Instituto de Gestão e Tecnologia da Informação (IGTI) | `May 2021 - Jul 2021`
 
 ## 📜 Certifications
 
@@ -87,5 +88,3 @@ Working as lead architect and developer on custom software projects, responsible
 - **GitHub:** [github.com/bernardoadca18](https://github.com/bernardoadca18)
 
 ---
-
-<div align="center"></div>
