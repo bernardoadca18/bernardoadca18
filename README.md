@@ -44,7 +44,7 @@ Desenvolvedor de Software com experiência consolidada no ciclo de vida completo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 ### **Desenvolvedor Fullstack (Freelancer)**  
 `Jan 2024 - Presente`
@@ -69,7 +69,7 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 - **oRAG**  
   Implementação de um sistema Retrieval-Augmented Generation com Python e Ollama, para geração de contexto em LLMs com base documental.
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
 - **Bacharelado em Ciência da Computação**  
   Centro Universitário Una | `Jan 2022 - Dez 2025`
@@ -77,7 +77,7 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 - **Curso de Desenvolvimento de Software**  
   Instituto de Gestão e Tecnologia da Informação (IGTI) | `Mai 2021 - Jul 2021`
 
-## 📜 Certificações
+## Certificações
 
 - **AWS Academy Cloud Foundations** – Amazon Web Services | `2025`
 
