@@ -14,7 +14,7 @@
 
 Desenvolvedor de Software com experiência consolidada no ciclo de vida completo de desenvolvimento (SDLC), especializado em projetar, desenvolver e implementar aplicações web distribuídas e escaláveis. Forte atuação como Full-Stack, com domínio em Java com Spring Boot no backend e React.js/Next.js com TypeScript no frontend. Também possuo conhecimentos em desenvolvimento mobile com React Native. Proativo na resolução de problemas complexos, focado na entrega de soluções robustas, seguras e alinhadas às necessidades do negócio, utilizando as melhores práticas de Clean Code e arquitetura de software.
 
-## 🛠 Habilidades Técnicas
+## Habilidades Técnicas
 
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -81,7 +81,7 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 
 - **AWS Academy Cloud Foundations** – Amazon Web Services | `2025`
 
-## 📫 Contato
+## Contato
 
 - **Email:** bernardoalvesaguiar16@gmail.com  
 - **LinkedIn:** [linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)  
