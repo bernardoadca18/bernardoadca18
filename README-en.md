@@ -14,7 +14,7 @@
 
 Software Developer with solid experience across the full Software Development Life Cycle (SDLC), specialized in designing, developing, and deploying scalable web applications. Strong full-stack skills, with expertise in Java and Spring Boot on the backend and React.js/Next.js with TypeScript on the frontend. I also have experience in mobile development using React Native. Proactive in solving complex problems, focused on delivering robust, secure, and business-aligned solutions, following best practices in Clean Code and software architecture.
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -44,7 +44,7 @@ Software Developer with solid experience across the full Software Development Li
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Fullstack Developer (Freelancer)**  
 `Jan 2024 - Present`
@@ -69,7 +69,7 @@ Working as lead architect and developer on-demand projects, covering the entire 
 - **oRAG**  
   Implementation of a Retrieval-Augmented Generation system with Python and Ollama for document-based LLM context generation.
 
-## 🎓 Education
+## Education
 
 - **Bachelor's in Computer Science**  
   Centro Universitário Una | `Jan 2022 - Dec 2025`
@@ -77,11 +77,11 @@ Working as lead architect and developer on-demand projects, covering the entire 
 - **Software Development Bootcamp**  
   Instituto de Gestão e Tecnologia da Informação (IGTI) | `May 2021 - Jul 2021`
 
-## 📜 Certifications
+## Certifications
 
 - **AWS Academy Cloud Foundations** – Amazon Web Services | `2025`
 
-## 📫 Contact
+## Contact
 
 - **Email:** bernardoalvesaguiar16@gmail.com  
 - **LinkedIn:** [linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218](https://www.linkedin.com/in/bernardo-alves-aguiar-da-cunha-b06364218)  
