@@ -10,6 +10,7 @@
 
 </div>
 
+
 ## Sobre Mim
 
 Desenvolvedor de Software com experiência consolidada no ciclo de vida completo de desenvolvimento (SDLC), especializado em projetar, desenvolver e implementar aplicações web distribuídas e escaláveis. Forte atuação como Full-Stack, com domínio em Java com Spring Boot no backend e React.js/Next.js com TypeScript no frontend. Também possuo conhecimentos em desenvolvimento mobile com React Native. Proativo na resolução de problemas complexos, focado na entrega de soluções robustas, seguras e alinhadas às necessidades do negócio, utilizando as melhores práticas de Clean Code e arquitetura de software.
