@@ -47,7 +47,7 @@ Software Developer with solid experience across the full Software Development Li
 ## Professional Experience
 
 ### **Fullstack Developer (Freelancer)**  
-`Jan 2024 - Present`
+`Dez 2023 - Present`
 
 Working as lead architect and developer on-demand projects, covering the entire development cycle: conception, requirements gathering, architecture, implementation, and deployment.
 
@@ -72,7 +72,7 @@ Working as lead architect and developer on-demand projects, covering the entire 
 ## Education
 
 - **Bachelor's in Computer Science**  
-  Centro Universitário Una | `Jan 2022 - Dec 2025`
+  Centro Universitário Una | `Jan 2022 - Jul 2026`
 
 - **Software Development Bootcamp**  
   Instituto de Gestão e Tecnologia da Informação (IGTI) | `May 2021 - Jul 2021`
