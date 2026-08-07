@@ -48,7 +48,7 @@ Desenvolvedor de Software com experiência consolidada no ciclo de vida completo
 ## Experiência Profissional
 
 ### **Desenvolvedor Fullstack (Freelancer)**  
-`Jan 2024 - Presente`
+`Dez 2023 - Presente`
 
 Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, responsável por todo o ciclo de desenvolvimento: concepção, levantamento de requisitos, arquitetura, implementação e implantação.
 
@@ -73,7 +73,7 @@ Atuação como arquiteto e desenvolvedor principal em projetos sob demanda, resp
 ## Formação Acadêmica
 
 - **Bacharelado em Ciência da Computação**  
-  Centro Universitário Una | `Jan 2022 - Dez 2025`
+  Centro Universitário Una | `Jan 2022 - Jul 2026`
 
 - **Curso de Desenvolvimento de Software**  
   Instituto de Gestão e Tecnologia da Informação (IGTI) | `Mai 2021 - Jul 2021`
