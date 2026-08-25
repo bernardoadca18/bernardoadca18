@@ -60,7 +60,7 @@ Sole architect and developer on independent, end-to-end projects — from requir
 
 #### Highlighted Projects:
 
-- **AI Technical Assistant (multi-domain RAG)**  
+- **any-assistant (multi-domain RAG)**  
   Multi-domain RAG architecture (FastAPI + React 19) with hybrid search on Qdrant (dense + sparse/BM25 vectors), LLM-driven query decomposition, and cross-encoder reranking. Includes a Code-to-Doc ingestion engine that turns source code into semantic documentation idempotently, with SHA-256 checkpoints for scaling to tens of thousands of files.
 
 - **Faceless Content Engine (autonomous video pipeline)**  
@@ -69,7 +69,7 @@ Sole architect and developer on independent, end-to-end projects — from requir
 - **LiteLLM Proxy Gateway**  
   Production-grade API gateway in Docker unifying multiple LLM providers under a single OpenAI-compatible endpoint, with API key pooling (11x effective rate limit increase), hierarchical fallback, and a full observability stack (Prometheus/Grafana).
 
-- **Loan Management Platform (SJF Juristas)**  
+- **CreditFlow (Loan Management Platform)**  
   Sole architect and developer of a complete 4-app ecosystem — REST API, admin dashboard, institutional portal, and mobile app — covering client onboarding through installment tracking. Java/Spring Boot backend (Security/JWT, RBAC), Next.js frontends, React Native/Expo mobile app, PIX payment integration, and audit trail. Ran in production until the client company ceased operations.
 
 ## Education
