@@ -10,7 +10,7 @@
 
 </div>
 
-## About Me
+## About
 
 Fullstack developer and AI engineer specialized in production-grade Generative AI and RAG systems — hybrid search, cross-encoder reranking, multi-tenant architectures — and multi-provider LLM orchestration. I work as sole architect and developer across the full lifecycle: requirements, architecture, implementation, deployment, and production debugging. Strong backend foundation in Python (FastAPI, async SQLAlchemy) and Java (Spring Boot), with a complete TypeScript/React ecosystem on the frontend, plus React Native for mobile. Complementary background in DevOps, Docker, and observability (Prometheus/Grafana).
 
