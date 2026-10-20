@@ -57,9 +57,9 @@ For a clearer view of the technical problems, design decisions and limitations, 
 
 ## Background
 
-- **Independent software development (since December 2023):** personal and independent application projects, APIs, integrations and technical documentation. This is distinct from verified client delivery.
+- **Independent software development (since December 2023):** personal and independent application projects, APIs, integrations and technical documentation.
 - **IT & infrastructure:** previous hands-on work involving networking, troubleshooting, Linux/Windows systems, virtualization and operational environments.
-- **Computer Science:** Centro Universitário Una. Graduation date should be checked against the final academic record before publishing a year.
+- **Computer Science:** Centro Universitário Una. Jan 2022 - Jul 2026
 - **Additional training:** Software Development program at IGTI; AWS Academy Cloud Foundations.
 
 ## Let's connect
